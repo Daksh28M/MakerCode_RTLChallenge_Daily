@@ -1,0 +1,27 @@
+VCD info: dumpfile 0009/test_1.vcd opened for output.
+16000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+16000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+26000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+26000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+36000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+36000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+46000ns rising_edge_o = 0, a_i = 1, a_i_prev = 1
+46000ns falling_edge_o = 0, a_i = 1, a_i_prev = 1
+56000ns rising_edge_o = 0, a_i = 1, a_i_prev = 1
+56000ns falling_edge_o = 0, a_i = 1, a_i_prev = 1
+66000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+66000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+76000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+76000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+86000ns rising_edge_o = 0, a_i = 0, a_i_prev = 1
+86000ns falling_edge_o = 0, a_i = 0, a_i_prev = 1
+96000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+96000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+106000ns rising_edge_o = 0, a_i = 0, a_i_prev = 1
+106000ns falling_edge_o = 0, a_i = 0, a_i_prev = 1
+116000ns rising_edge_o = 0, a_i = 0, a_i_prev = 0
+116000ns falling_edge_o = 0, a_i = 0, a_i_prev = 0
+126000ns rising_edge_o = 1, a_i = 1, a_i_prev = 0
+126000ns falling_edge_o = 0, a_i = 1, a_i_prev = 0
+Test PASS
+0009/tb.sv:128: $finish called at 135000 (1ps)

@@ -1,0 +1,132 @@
+$date
+	Tue Jun 16 10:21:23 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 1 ! clk $end
+$var wire 3 " count_out [2:0] $end
+$var wire 1 # rst_n $end
+$var parameter 32 $ COUNTER_WIDTH $end
+$var reg 3 % count [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b11 $
+$end
+#0
+$dumpvars
+bx %
+0#
+bx "
+0!
+$end
+#10000
+b1 "
+b1 %
+1!
+#20000
+0!
+#25000
+1#
+#30000
+b10 "
+b10 %
+1!
+#40000
+0!
+#50000
+b100 "
+b100 %
+1!
+#60000
+0!
+#70000
+b1 "
+b1 %
+1!
+#80000
+0!
+#90000
+b10 "
+b10 %
+1!
+#100000
+0!
+#110000
+b100 "
+b100 %
+1!
+#120000
+0!
+#130000
+b1 "
+b1 %
+1!
+#140000
+0!
+#150000
+b10 "
+b10 %
+1!
+#160000
+0!
+#170000
+b100 "
+b100 %
+1!
+#180000
+0!
+#190000
+b1 "
+b1 %
+1!
+#200000
+0!
+#210000
+b10 "
+b10 %
+1!
+#220000
+0!
+#230000
+b100 "
+b100 %
+1!
+#240000
+0!
+#250000
+b1 "
+b1 %
+1!
+#260000
+0!
+#270000
+b10 "
+b10 %
+1!
+#280000
+0!
+#290000
+b100 "
+b100 %
+1!
+#300000
+0!
+#310000
+b1 "
+b1 %
+1!
+#320000
+0!
+#330000
+b10 "
+b10 %
+1!

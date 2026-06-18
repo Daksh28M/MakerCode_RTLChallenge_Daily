@@ -1,0 +1,7 @@
+VCD info: dumpfile 0007/test_2.vcd opened for output.
+40000ns Select 00: data_out = e
+60000ns Select 01: data_out = f
+80000ns Select 10: data_out = a
+100000ns Select 11: data_out = c
+Test PASS
+0007/tb.sv:75: $finish called at 100000 (1ps)

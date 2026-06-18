@@ -1,0 +1,18 @@
+VCD info: dumpfile 0010/test_1.vcd opened for output.
+20000ns ALU operation passed: a=05, b=03, op=000, result=08
+30000ns ALU operation passed: a=05, b=03, op=001, result=02
+40000ns ALU operation passed: a=05, b=03, op=010, result=01
+50000ns ALU operation passed: a=05, b=03, op=011, result=07
+60000ns ALU operation passed: a=05, b=03, op=100, result=06
+70000ns ALU operation passed: a=05, b=03, op=101, result=fa
+80000ns ALU operation passed: a=05, b=03, op=110, result=0a
+90000ns ALU operation passed: a=05, b=03, op=111, result=02
+100000ns ALU operation passed: a=ff, b=01, op=000, result=00
+110000ns ALU operation passed: a=00, b=01, op=001, result=ff
+120000ns ALU operation passed: a=aa, b=55, op=010, result=00
+130000ns ALU operation passed: a=aa, b=55, op=011, result=ff
+140000ns ALU operation passed: a=aa, b=55, op=100, result=ff
+150000ns ALU operation passed: a=80, b=00, op=110, result=00
+160000ns ALU operation passed: a=01, b=00, op=111, result=00
+Test PASS
+0010/tb.sv:100: $finish called at 160000 (1ps)

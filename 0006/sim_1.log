@@ -1,0 +1,17 @@
+VCD info: dumpfile 0006/test_1.vcd opened for output.
+31000ns Test cycle 1: data_out = aa
+41000ns Test cycle 2: data_out = 55
+51000ns Test cycle 3: data_out = 55
+61000ns Test cycle 4: data_out = aa
+71000ns Test cycle 5: data_out = ff
+81000ns Test cycle 6: data_out = 00
+91000ns Test cycle 7: data_out = 00
+101000ns Test cycle 8: data_out = ff
+111000ns Test cycle 9: data_out = f0
+121000ns Test cycle 10: data_out = 0f
+131000ns Test cycle 10: data_out = 0f
+141000ns Test cycle 10: data_out = 0f
+151000ns Test cycle 10: data_out = 0f
+Test PASS
+0006/tb.sv:107: $finish called at 161000 (1ps)
+161000ns Test cycle 10: data_out = 0f

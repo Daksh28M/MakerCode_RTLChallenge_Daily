@@ -1,0 +1,97 @@
+$date
+	Thu Jun 18 14:30:47 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 8 ! a_i [7:0] $end
+$var wire 8 " b_i [7:0] $end
+$var wire 3 # op_i [2:0] $end
+$var parameter 32 $ ADD $end
+$var parameter 32 % AND $end
+$var parameter 32 & NOT $end
+$var parameter 32 ' OR $end
+$var parameter 32 ( SLL $end
+$var parameter 32 ) SRL $end
+$var parameter 32 * SUB $end
+$var parameter 32 + XOR $end
+$var reg 8 , alu_o [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 +
+b1 *
+b111 )
+b110 (
+b11 '
+b101 &
+b10 %
+b0 $
+$end
+#0
+$dumpvars
+b0 ,
+b0 #
+b0 "
+b0 !
+$end
+#10000
+b1000 ,
+b11 "
+b101 !
+#20000
+b10 ,
+b1 #
+#30000
+b1 ,
+b10 #
+#40000
+b111 ,
+b11 #
+#50000
+b110 ,
+b100 #
+#60000
+b11111010 ,
+b101 #
+#70000
+b1010 ,
+b110 #
+#80000
+b10 ,
+b111 #
+#90000
+b0 ,
+b0 #
+b1 "
+b11111111 !
+#100000
+b11111111 ,
+b1 #
+b0 !
+#110000
+b0 ,
+b10 #
+b1010101 "
+b10101010 !
+#120000
+b11111111 ,
+b11 #
+#130000
+b100 #
+#140000
+b0 ,
+b110 #
+b0 "
+b10000000 !
+#150000
+b111 #
+b1 !
+#160000

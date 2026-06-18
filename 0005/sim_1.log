@@ -1,0 +1,3 @@
+VCD info: dumpfile 0005/test_1.vcd opened for output.
+Test PASS
+0005/tb.sv:99: $finish called at 1370000 (1ps)

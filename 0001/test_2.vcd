@@ -1,0 +1,37 @@
+$date
+	Tue Jun 16 08:55:06 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 4 ! data_in_1 [3:0] $end
+$var wire 4 " data_in_2 [3:0] $end
+$var wire 4 # data_out [3:0] $end
+$var parameter 32 $ INPUT_WIDTH $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 $
+$end
+#0
+$dumpvars
+b111 #
+b101 "
+b1100 !
+$end
+#20000
+b0 #
+b110 "
+b10 !
+#40000
+b1111 #
+b0 "
+b1111 !
+#60000

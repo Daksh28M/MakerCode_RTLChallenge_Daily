@@ -1,0 +1,10 @@
+module lfsr (
+  input     wire      clk,
+  input     wire      reset,
+
+  output    wire[3:0] lfsr_o
+);
+
+// your implementation here
+
+endmodule

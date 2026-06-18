@@ -1,0 +1,18 @@
+VCD info: dumpfile 0003/test_2.vcd opened for output.
+31000ns Cycle 1: count_out = 010
+51000ns Cycle 2: count_out = 100
+71000ns Cycle 3: count_out = 001
+91000ns Cycle 4: count_out = 010
+111000ns Cycle 5: count_out = 100
+131000ns Cycle 6: count_out = 001
+151000ns Cycle 7: count_out = 010
+171000ns Cycle 8: count_out = 100
+191000ns Cycle 9: count_out = 001
+211000ns Cycle 10: count_out = 010
+231000ns Cycle 11: count_out = 100
+251000ns Cycle 12: count_out = 001
+271000ns Cycle 13: count_out = 010
+291000ns Cycle 14: count_out = 100
+311000ns Cycle 15: count_out = 001
+Test PASS
+0003/tb.sv:82: $finish called at 330000 (1ps)

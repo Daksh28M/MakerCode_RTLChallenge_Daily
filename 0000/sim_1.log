@@ -1,0 +1,5 @@
+VCD info: dumpfile 0000/test_1.vcd opened for output.
+21000ns Data_out = 47, Data_in_1 = 23, Data_in_2 = 24
+41000ns Data_out = 63, Data_in_1 = 11, Data_in_2 = 52
+Test PASS
+0000/tb.sv:72: $finish called at 60000 (1ps)

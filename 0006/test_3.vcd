@@ -1,0 +1,98 @@
+$date
+	Tue Jun 16 11:56:54 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 1 ! clk $end
+$var wire 6 " data_in [5:0] $end
+$var wire 6 # data_out [5:0] $end
+$var wire 1 $ rst_n $end
+$var parameter 32 % DATA_WIDTH $end
+$var reg 6 & data_reg [5:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b110 %
+$end
+#0
+$dumpvars
+b0 &
+0$
+b0 #
+b0 "
+0!
+$end
+#10000
+1!
+#20000
+0!
+#25000
+b101010 "
+1$
+#30000
+b101010 #
+b101010 &
+1!
+#31000
+b10101 "
+#40000
+b10101 #
+b10101 &
+0!
+#50000
+1!
+#51000
+b101010 "
+#60000
+b101010 #
+b101010 &
+0!
+#61000
+b111111 "
+#70000
+b111111 #
+b111111 &
+1!
+#71000
+b0 "
+#80000
+b0 #
+b0 &
+0!
+#90000
+1!
+#91000
+b111111 "
+#100000
+b111111 #
+b111111 &
+0!
+#101000
+b110000 "
+#110000
+b110000 #
+b110000 &
+1!
+#111000
+b1111 "
+#120000
+b1111 #
+b1111 &
+0!
+#130000
+1!
+#140000
+0!
+#150000
+1!
+#160000
+0!
+#161000

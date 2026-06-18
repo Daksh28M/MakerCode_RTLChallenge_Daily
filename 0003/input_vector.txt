@@ -1,0 +1,5 @@
+COUNTER_WIDTH
+4
+3
+5
+8
