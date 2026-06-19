@@ -1,0 +1,9 @@
+VCD info: dumpfile 0018/test_1.vcd opened for output.
+1000ns bin_i =  5, one_hot_o = 0000000000100000
+21000ns bin_i = 12, one_hot_o = 0001000000000000
+41000ns bin_i =  0, one_hot_o = 0000000000000001
+61000ns bin_i =  1, one_hot_o = 0000000000000010
+81000ns bin_i =  7, one_hot_o = 0000000010000000
+101000ns bin_i = 15, one_hot_o = 1000000000000000
+Test PASS
+0018/tb.sv:81: $finish called at 120000 (1ps)

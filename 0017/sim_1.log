@@ -1,0 +1,24 @@
+VCD info: dumpfile 0017/test_1.vcd opened for output.
+6000ns empty_o=1, serial_o=0, valid_o=0, parallel_i=0
+16000ns empty_o=1, serial_o=0, valid_o=0, parallel_i=0
+26000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=0
+36000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=a
+46000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=a
+56000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=a
+66000ns empty_o=1, serial_o=0, valid_o=0, parallel_i=a
+76000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=a
+86000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=a
+96000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=5
+106000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=5
+116000ns empty_o=1, serial_o=0, valid_o=0, parallel_i=5
+126000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=5
+136000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=5
+146000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=5
+156000ns empty_o=0, serial_o=0, valid_o=1, parallel_i=f
+166000ns empty_o=1, serial_o=0, valid_o=0, parallel_i=f
+176000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=f
+186000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=f
+196000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=f
+206000ns empty_o=0, serial_o=1, valid_o=1, parallel_i=f
+Test PASS
+0017/tb.sv:121: $finish called at 210000 (1ps)
