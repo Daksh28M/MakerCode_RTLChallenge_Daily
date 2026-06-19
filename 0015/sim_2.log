@@ -1,0 +1,6 @@
+VCD info: dumpfile 0015/test_2.vcd opened for output.
+1000ns bin_i = 010 (2), gray_o = 011 (3)
+21000ns bin_i = 111 (7), gray_o = 100 (4)
+41000ns bin_i = 001 (1), gray_o = 001 (1)
+Test PASS
+0015/tb.sv:71: $finish called at 60000 (1ps)

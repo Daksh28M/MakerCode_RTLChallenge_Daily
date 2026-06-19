@@ -1,0 +1,35 @@
+VCD info: dumpfile 0013/test_1.vcd opened for output.
+16000ns lfsr_o = 1110
+26000ns lfsr_o = 1100
+36000ns lfsr_o = 1001
+46000ns lfsr_o = 0011
+56000ns lfsr_o = 0111
+66000ns lfsr_o = 1111
+76000ns lfsr_o = 1110
+86000ns lfsr_o = 1100
+96000ns lfsr_o = 1001
+106000ns lfsr_o = 0011
+116000ns lfsr_o = 0111
+126000ns lfsr_o = 1111
+136000ns lfsr_o = 1110
+146000ns lfsr_o = 1100
+156000ns lfsr_o = 1001
+166000ns lfsr_o = 0011
+176000ns lfsr_o = 0111
+186000ns lfsr_o = 1111
+196000ns lfsr_o = 1110
+206000ns lfsr_o = 1100
+216000ns lfsr_o = 1001
+226000ns lfsr_o = 1110
+236000ns lfsr_o = 1100
+246000ns lfsr_o = 1001
+256000ns lfsr_o = 0011
+266000ns lfsr_o = 0111
+276000ns lfsr_o = 1111
+286000ns lfsr_o = 1110
+296000ns lfsr_o = 1100
+306000ns lfsr_o = 1001
+316000ns lfsr_o = 0011
+326000ns lfsr_o = 0111
+Test PASS
+0013/tb.sv:97: $finish called at 335000 (1ps)

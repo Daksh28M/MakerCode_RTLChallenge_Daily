@@ -1,0 +1,35 @@
+$date
+	Fri Jun 19 11:58:27 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 4 ! bin_i [3:0] $end
+$var wire 16 " one_hot_o [15:0] $end
+$var parameter 32 # BIN_W $end
+$var parameter 32 $ ONE_HOT_W $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10000 $
+b100 #
+$end
+#0
+$dumpvars
+b100000 "
+b101 !
+$end
+#20000
+b1000000000000 "
+b1100 !
+#40000
+b1 "
+b0 !
+#60000

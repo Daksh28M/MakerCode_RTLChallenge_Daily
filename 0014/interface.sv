@@ -7,5 +7,5 @@ module binary_to_one_hot#(
 );
 
 // your implementation here
-
+assign one_hot_o = ('d1)<<bin_i;
 endmodule

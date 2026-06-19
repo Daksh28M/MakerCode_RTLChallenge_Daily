@@ -7,5 +7,5 @@ module binary_to_gray_code #(
 );
 
 // your implementation here
-
+assign gray_o = bin_i ^ (bin_i>>1);
 endmodule

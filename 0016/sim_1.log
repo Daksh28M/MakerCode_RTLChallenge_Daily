@@ -1,0 +1,37 @@
+VCD info: dumpfile 0016/test_1.vcd opened for output.
+6000ns count_o = 0, load_i = 0, load_val_i = 0
+16000ns count_o = 0, load_i = 0, load_val_i = 0
+26000ns count_o = 1, load_i = 0, load_val_i = 0
+36000ns count_o = 5, load_i = 1, load_val_i = 5
+46000ns count_o = 6, load_i = 0, load_val_i = 5
+56000ns count_o = 7, load_i = 0, load_val_i = 5
+66000ns count_o = 8, load_i = 0, load_val_i = 5
+76000ns count_o = 9, load_i = 0, load_val_i = 5
+86000ns count_o = a, load_i = 0, load_val_i = 5
+96000ns count_o = 3, load_i = 1, load_val_i = 3
+106000ns count_o = 4, load_i = 0, load_val_i = 3
+116000ns count_o = 5, load_i = 0, load_val_i = 3
+126000ns count_o = 6, load_i = 0, load_val_i = 3
+136000ns count_o = 7, load_i = 0, load_val_i = 3
+146000ns count_o = 8, load_i = 0, load_val_i = 3
+156000ns count_o = 9, load_i = 0, load_val_i = 3
+166000ns count_o = a, load_i = 0, load_val_i = 3
+176000ns count_o = b, load_i = 0, load_val_i = 3
+186000ns count_o = c, load_i = 0, load_val_i = 3
+196000ns count_o = d, load_i = 0, load_val_i = 3
+206000ns count_o = e, load_i = 0, load_val_i = 3
+216000ns count_o = f, load_i = 0, load_val_i = 3
+226000ns count_o = 3, load_i = 0, load_val_i = 3
+236000ns count_o = 4, load_i = 0, load_val_i = 3
+246000ns count_o = 5, load_i = 0, load_val_i = 3
+256000ns count_o = 6, load_i = 0, load_val_i = 3
+266000ns count_o = 7, load_i = 0, load_val_i = 3
+276000ns count_o = 8, load_i = 0, load_val_i = 3
+286000ns count_o = 9, load_i = 0, load_val_i = 3
+296000ns count_o = a, load_i = 0, load_val_i = 3
+306000ns count_o = f, load_i = 1, load_val_i = f
+316000ns count_o = f, load_i = 0, load_val_i = f
+326000ns count_o = f, load_i = 0, load_val_i = f
+336000ns count_o = f, load_i = 0, load_val_i = f
+Test PASS
+0016/tb.sv:114: $finish called at 340000 (1ps)

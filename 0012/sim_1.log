@@ -1,0 +1,28 @@
+VCD info: dumpfile 0012/test_1.vcd opened for output.
+Testing pattern: 1101
+36000ns sr_o = 0011, x_i = 1
+46000ns sr_o = 0111, x_i = 1
+56000ns sr_o = 1110, x_i = 0
+66000ns sr_o = 1101, x_i = 1
+Testing pattern: 0000
+76000ns sr_o = 1010, x_i = 0
+86000ns sr_o = 0100, x_i = 0
+96000ns sr_o = 1000, x_i = 0
+106000ns sr_o = 0000, x_i = 0
+Testing pattern: 1111
+116000ns sr_o = 0001, x_i = 1
+126000ns sr_o = 0011, x_i = 1
+136000ns sr_o = 0111, x_i = 1
+146000ns sr_o = 1111, x_i = 1
+Testing pattern: 1010
+156000ns sr_o = 1111, x_i = 1
+166000ns sr_o = 1110, x_i = 0
+176000ns sr_o = 1101, x_i = 1
+186000ns sr_o = 1010, x_i = 0
+Testing pattern: 0110
+216000ns sr_o = 0000, x_i = 0
+226000ns sr_o = 0001, x_i = 1
+236000ns sr_o = 0011, x_i = 1
+246000ns sr_o = 0110, x_i = 0
+Test PASS
+0012/tb.sv:125: $finish called at 246000 (1ps)

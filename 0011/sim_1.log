@@ -1,0 +1,36 @@
+VCD info: dumpfile 0011/test_1.vcd opened for output.
+16000ns cnt_o = 01
+26000ns cnt_o = 03
+36000ns cnt_o = 05
+46000ns cnt_o = 07
+56000ns cnt_o = 09
+66000ns cnt_o = 0b
+76000ns cnt_o = 0d
+86000ns cnt_o = 0f
+96000ns cnt_o = 11
+106000ns cnt_o = 13
+116000ns cnt_o = 15
+126000ns cnt_o = 17
+136000ns cnt_o = 19
+146000ns cnt_o = 1b
+156000ns cnt_o = 1d
+166000ns cnt_o = 1f
+176000ns cnt_o = 21
+186000ns cnt_o = 23
+196000ns cnt_o = 25
+206000ns cnt_o = 27
+216000ns cnt_o = 29
+226000ns cnt_o = 01
+236000ns cnt_o = 01
+246000ns cnt_o = 03
+256000ns cnt_o = 05
+266000ns cnt_o = 07
+276000ns cnt_o = 09
+286000ns cnt_o = 0b
+296000ns cnt_o = 0d
+306000ns cnt_o = 0f
+316000ns cnt_o = 11
+326000ns cnt_o = 13
+336000ns cnt_o = 15
+Test PASS
+0011/tb.sv:94: $finish called at 345000 (1ps)

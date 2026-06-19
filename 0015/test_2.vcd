@@ -1,0 +1,33 @@
+$date
+	Fri Jun 19 12:02:44 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 3 ! bin_i [2:0] $end
+$var wire 3 " gray_o [2:0] $end
+$var parameter 32 # VEC_W $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b11 #
+$end
+#0
+$dumpvars
+b11 "
+b10 !
+$end
+#20000
+b100 "
+b111 !
+#40000
+b1 "
+b1 !
+#60000
