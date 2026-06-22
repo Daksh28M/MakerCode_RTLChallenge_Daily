@@ -1,0 +1,20 @@
+VCD info: dumpfile 0049/test_2.vcd opened for output.
+31000ns Data_out = 0
+51000ns Data_out = 0
+52000ns Applying data_in = 8
+71000ns Data_out = 1
+72000ns Applying data_in = 16
+ERROR: 0049/tb.sv:126: 91000ns Data_out = 4, expected = 3
+       Time: 91000  Scope: tb
+92000ns Applying data_in = 24
+111000ns Data_out = 7
+112000ns Applying data_in = 16
+131000ns Data_out = 9
+132000ns Applying data_in = 0
+ERROR: 0049/tb.sv:126: 151000ns Data_out = 6, expected = 5
+       Time: 151000  Scope: tb
+152000ns Applying data_in = -8
+ERROR: 0049/tb.sv:126: 171000ns Data_out = -1, expected = 0
+       Time: 171000  Scope: tb
+Test failed with 3 errors.
+0049/tb.sv:142: $finish called at 190000 (1ps)

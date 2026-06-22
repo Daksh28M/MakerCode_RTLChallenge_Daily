@@ -1,0 +1,73 @@
+$date
+	Mon Jun 22 08:51:12 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 4 ! data_i [3:0] $end
+$var wire 1 " valid_o $end
+$var reg 2 # pos_o [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx #
+0"
+b0 !
+$end
+#20000
+b0 #
+1"
+b1 !
+#40000
+b1 #
+b10 !
+#60000
+b0 #
+b11 !
+#80000
+b10 #
+b100 !
+#100000
+b0 #
+b101 !
+#120000
+b1 #
+b110 !
+#140000
+b0 #
+b111 !
+#160000
+b11 #
+b1000 !
+#180000
+b0 #
+b1001 !
+#200000
+b1 #
+b1010 !
+#220000
+b0 #
+b1011 !
+#240000
+b10 #
+b1100 !
+#260000
+b0 #
+b1101 !
+#280000
+b1 #
+b1110 !
+#300000
+b0 #
+b1111 !
+#320000

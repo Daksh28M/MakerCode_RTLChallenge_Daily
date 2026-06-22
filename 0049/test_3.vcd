@@ -1,0 +1,122 @@
+$date
+	Fri Jun 19 12:28:16 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 1 ! clk $end
+$var wire 4 " data_in [3:0] $end
+$var wire 1 # reset $end
+$var wire 4 $ data_out [3:0] $end
+$var parameter 32 % DATA_WIDTH $end
+$var parameter 32 & a1 $end
+$var parameter 32 ' b0 $end
+$var parameter 32 ( b1 $end
+$var parameter 32 ) b2 $end
+$var reg 4 * data_in_prev1 [3:0] $end
+$var reg 4 + data_in_prev2 [3:0] $end
+$var reg 4 , data_in_reg [3:0] $end
+$var reg 4 - data_out_prev [3:0] $end
+$var reg 8 . data_out_reg [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1 )
+b10 (
+b1 '
+b1 &
+b100 %
+$end
+#0
+$dumpvars
+b0 .
+b0 -
+b0 ,
+b0 +
+b0 *
+b0 $
+1#
+b0 "
+0!
+$end
+#10000
+1!
+#20000
+0!
+#30000
+0#
+1!
+#40000
+0!
+#50000
+1!
+#52000
+b100 "
+#60000
+0!
+#70000
+b100 *
+1!
+#72000
+b1000 "
+#80000
+0!
+#90000
+b100 +
+b1000 *
+1!
+#92000
+b110 "
+#100000
+0!
+#110000
+b1111 $
+b11111111 .
+b1000 +
+b110 *
+1!
+#112000
+b100 "
+#120000
+0!
+#130000
+b1 $
+b1 .
+b1111 -
+b110 +
+b100 *
+1!
+#132000
+b0 "
+#140000
+0!
+#150000
+b1 -
+b100 +
+b0 *
+1!
+#152000
+b1110 "
+#160000
+0!
+#170000
+b0 $
+b0 .
+b0 +
+b1110 *
+1!
+#180000
+0!
+#190000
+b1111 $
+b11111111 .
+b0 -
+b1110 +
+1!

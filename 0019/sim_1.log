@@ -1,0 +1,19 @@
+VCD info: dumpfile 0019/test_1.vcd opened for output.
+1000ns data_i=0000 | valid_o=0 pos_o=xx (don't care)
+21000ns data_i=0001 | valid_o=1 pos_o=00
+41000ns data_i=0010 | valid_o=1 pos_o=01
+61000ns data_i=0011 | valid_o=1 pos_o=00
+81000ns data_i=0100 | valid_o=1 pos_o=10
+101000ns data_i=0101 | valid_o=1 pos_o=00
+121000ns data_i=0110 | valid_o=1 pos_o=01
+141000ns data_i=0111 | valid_o=1 pos_o=00
+161000ns data_i=1000 | valid_o=1 pos_o=11
+181000ns data_i=1001 | valid_o=1 pos_o=00
+201000ns data_i=1010 | valid_o=1 pos_o=01
+221000ns data_i=1011 | valid_o=1 pos_o=00
+241000ns data_i=1100 | valid_o=1 pos_o=10
+261000ns data_i=1101 | valid_o=1 pos_o=00
+281000ns data_i=1110 | valid_o=1 pos_o=01
+301000ns data_i=1111 | valid_o=1 pos_o=00
+Test PASS
+0019/tb.sv:151: $finish called at 320000 (1ps)

@@ -1,0 +1,17 @@
+VCD info: dumpfile 0049/test_3.vcd opened for output.
+31000ns Data_out = 0
+51000ns Data_out = 0
+52000ns Applying data_in = 4
+71000ns Data_out = 0
+72000ns Applying data_in = -8
+91000ns Data_out = 0
+92000ns Applying data_in = 6
+111000ns Data_out = -1
+112000ns Applying data_in = 4
+131000ns Data_out = 1
+132000ns Applying data_in = 0
+151000ns Data_out = 1
+152000ns Applying data_in = -2
+171000ns Data_out = 0
+Test PASS
+0049/tb.sv:142: $finish called at 190000 (1ps)
