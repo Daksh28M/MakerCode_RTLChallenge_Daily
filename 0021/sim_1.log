@@ -1,0 +1,22 @@
+VCD info: dumpfile 0021/test_1.vcd opened for output.
+6000ns req_i = 0000, gnt_o = 0000, last_granted = 3
+16000ns req_i = 0000, gnt_o = 0000, last_granted = 3
+26000ns req_i = 0000, gnt_o = 0000, last_granted = 3
+36000ns req_i = 0001, gnt_o = 0001, last_granted = 0
+46000ns req_i = 0001, gnt_o = 0001, last_granted = 0
+56000ns req_i = 0010, gnt_o = 0010, last_granted = 1
+66000ns req_i = 0010, gnt_o = 0010, last_granted = 1
+76000ns req_i = 1111, gnt_o = 0100, last_granted = 2
+86000ns req_i = 1111, gnt_o = 1000, last_granted = 3
+96000ns req_i = 0011, gnt_o = 0001, last_granted = 0
+106000ns req_i = 0011, gnt_o = 0010, last_granted = 1
+116000ns req_i = 1000, gnt_o = 1000, last_granted = 3
+126000ns req_i = 1000, gnt_o = 1000, last_granted = 3
+136000ns req_i = 0110, gnt_o = 0010, last_granted = 1
+146000ns req_i = 0110, gnt_o = 0100, last_granted = 2
+156000ns req_i = 0000, gnt_o = 0000, last_granted = 2
+166000ns req_i = 0000, gnt_o = 0000, last_granted = 2
+176000ns req_i = 1100, gnt_o = 1000, last_granted = 3
+186000ns req_i = 1100, gnt_o = 0100, last_granted = 2
+Test PASS
+0021/tb.sv:154: $finish called at 190000 (1ps)
