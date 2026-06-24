@@ -1,5 +1,5 @@
 $date
-	Wed Jun 24 12:29:43 2026
+	Wed Jun 24 12:53:06 2026
 $end
 $version
 	Icarus Verilog
@@ -23,17 +23,14 @@ $dumpall
 $end
 #0
 $dumpvars
-bx &
-bx %
-bx $
+b11 &
+b0 %
+b0 $
 1#
 b0 "
 0!
 $end
 #5000
-b0 %
-b0 $
-b11 &
 1!
 #10000
 0!

@@ -10,7 +10,7 @@ module round_robin_arbiter (
 reg [1:0] last_gnt;
 reg [3:0] gnt_tmp;
 
-always @(posedge clk) begin
+always @(posedge clk or posedge reset) begin
   if(reset) begin
     last_gnt = 2'd3;  //to start first cycle with 0 bit as highest priority
     gnt_o = 4'b0;
