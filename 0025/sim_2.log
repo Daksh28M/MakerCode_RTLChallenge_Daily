@@ -1,0 +1,29 @@
+VCD info: dumpfile 0025/test_2.vcd opened for output.
+6000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxx
+16000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxx
+26000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxx
+36000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxx
+46000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+56000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+66000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+76000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+86000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+96000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+106000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+116000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+126000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+136000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=1234
+146000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=abcd
+156000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=abcd
+166000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=0000
+176000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=0000
+186000ns push_i=1, pop_i=1, full_o=0, empty_o=0, pop_data_o=0033
+196000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=0033
+206000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=0099
+216000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=0099
+226000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=0077
+236000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=0077
+246000ns push_i=0, pop_i=1, full_o=0, empty_o=1, pop_data_o=xxxx
+256000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxx
+Test PASS
+0025/tb.sv:199: $finish called at 260000 (1ps)

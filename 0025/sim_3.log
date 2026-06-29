@@ -1,0 +1,29 @@
+VCD info: dumpfile 0025/test_3.vcd opened for output.
+6000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+16000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+26000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+36000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+46000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+56000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+66000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+76000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+86000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+96000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+106000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+116000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+126000ns push_i=1, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+136000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=deadbeef
+146000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=cafebabe
+156000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=cafebabe
+166000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=12345678
+176000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=12345678
+186000ns push_i=1, pop_i=1, full_o=0, empty_o=0, pop_data_o=00000033
+196000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=00000033
+206000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=00000099
+216000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=00000099
+226000ns push_i=0, pop_i=1, full_o=0, empty_o=0, pop_data_o=00000077
+236000ns push_i=0, pop_i=0, full_o=0, empty_o=0, pop_data_o=00000077
+246000ns push_i=0, pop_i=1, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+256000ns push_i=0, pop_i=0, full_o=0, empty_o=1, pop_data_o=xxxxxxxx
+Test PASS
+0025/tb.sv:199: $finish called at 260000 (1ps)
