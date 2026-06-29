@@ -1,0 +1,97 @@
+$date
+	Mon Jun 29 11:09:44 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb $end
+$scope module DUT $end
+$var wire 4 ! bcd_digit [3:0] $end
+$var wire 1 " enable $end
+$var wire 7 # segments [6:0] $end
+$var wire 1 $ digit_valid $end
+$var parameter 32 % ACTIVE_HIGH $end
+$var reg 7 & out_reg [6:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1 %
+$end
+#0
+$dumpvars
+b111111 &
+1$
+b111111 #
+1"
+b0 !
+$end
+#25000
+b110 #
+b110 &
+b1 !
+#40000
+b1011011 #
+b1011011 &
+b10 !
+#55000
+b1001111 #
+b1001111 &
+b11 !
+#70000
+b1100110 #
+b1100110 &
+b100 !
+#85000
+b1101101 #
+b1101101 &
+b101 !
+#100000
+b1111101 #
+b1111101 &
+b110 !
+#115000
+b111 #
+b111 &
+b111 !
+#130000
+b1111111 #
+b1111111 &
+b1000 !
+#145000
+b1101111 #
+b1101111 &
+b1001 !
+#160000
+b0 #
+b0 &
+0$
+b1010 !
+#175000
+b1011 !
+#190000
+b1100 !
+#205000
+b1101 !
+#220000
+b1110 !
+#235000
+b1111 !
+#250000
+0"
+b0 !
+#255000
+b1 !
+#260000
+b10 !
+#265000
+b11 !
+#270000
+b100 !
+#275000
+b101 !
+#280000

@@ -1,0 +1,23 @@
+VCD info: dumpfile 0026/test_2.vcd opened for output.
+Testing valid BCD digits (0-9)
+Testing digit 0 (enable=1): segments=0x40, expected=0x40
+Testing digit 1 (enable=1): segments=0x79, expected=0x79
+Testing digit 2 (enable=1): segments=0x24, expected=0x24
+Testing digit 3 (enable=1): segments=0x30, expected=0x30
+Testing digit 4 (enable=1): segments=0x19, expected=0x19
+Testing digit 5 (enable=1): segments=0x12, expected=0x12
+Testing digit 6 (enable=1): segments=0x02, expected=0x02
+Testing digit 7 (enable=1): segments=0x78, expected=0x78
+Testing digit 8 (enable=1): segments=0x00, expected=0x00
+Testing digit 9 (enable=1): segments=0x10, expected=0x10
+Testing invalid BCD digits (10-15)
+Testing invalid digit 10: segments=0x7f
+Testing invalid digit 11: segments=0x7f
+Testing invalid digit 12: segments=0x7f
+Testing invalid digit 13: segments=0x7f
+Testing invalid digit 14: segments=0x7f
+Testing invalid digit 15: segments=0x7f
+Testing enable control
+  - Enable control working correctly
+Test PASS
+0026/tb.sv:239: $finish called at 280000 (1ps)

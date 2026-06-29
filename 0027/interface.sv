@@ -6,5 +6,13 @@ module UpDownCounter (
 );
 
 // your implementation here
-
+always_ff @(posedge clk) begin
+    if(rst) begin
+        count <= 4'b0;
+    end
+    else begin
+        if(up_down) count <= count + 1'b1;
+        else count <= count - 1'b1;
+    end
+end
 endmodule

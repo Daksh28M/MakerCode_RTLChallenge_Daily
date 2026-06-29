@@ -1,0 +1,14 @@
+VCD info: dumpfile 0027/test_1.vcd opened for output.
+Match at time 6000: count = 0
+Match at time 16000: count = 0
+Match at time 26000: count = 1
+Match at time 36000: count = 2
+Match at time 46000: count = 3
+Match at time 56000: count = 2
+Match at time 66000: count = 1
+Match at time 76000: count = 0
+Match at time 86000: count = 1
+Match at time 96000: count = 2
+Match at time 106000: count = 3
+Test PASS
+0027/tb.sv:87: $finish called at 110000 (1ps)
