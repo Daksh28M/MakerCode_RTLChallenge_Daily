@@ -1,0 +1,20 @@
+VCD info: dumpfile 0022/test_1.vcd opened for output.
+Test 1: Basic start/stop operation
+70000us Starting timer
+380000us Stopping timer
+590000us Restarting timer
+  ✓ Basic start/stop operation working
+Test 2: Clear operation
+600000us Start timer
+1095000us Stop timer
+1120000us Start timer again
+1820000us Stop timer
+  ✓ Clear operation working
+Test 3: Timing accuracy
+1850000us Ensure timer is stopped
+1880000us Start timer for accuracy test
+  ✓ Timing accuracy verified
+Test 4: Rollover behavior
+  ✓ Rollover behavior verified
+Test PASS
+0022/tb.sv:322: $finish called at 3662920000 (1us)
