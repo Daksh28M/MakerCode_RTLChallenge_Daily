@@ -1,0 +1,13 @@
+VCD info: dumpfile 0028/test_1.vcd opened for output.
+Match at time 6000: parallel_out = 00000000
+Match at time 16000: parallel_out = 00000000
+Match at time 26000: parallel_out = 00000001
+Match at time 36000: parallel_out = 00000010
+Match at time 46000: parallel_out = 00000101
+Match at time 56000: parallel_out = 00001010
+Match at time 66000: parallel_out = 00010101
+Match at time 76000: parallel_out = 00101011
+Match at time 86000: parallel_out = 01010110
+Match at time 96000: parallel_out = 10101101
+Test PASS
+0028/tb.sv:93: $finish called at 100000 (1ps)

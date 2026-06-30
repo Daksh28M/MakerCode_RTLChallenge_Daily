@@ -1,0 +1,19 @@
+VCD info: dumpfile 0029/test_1.vcd opened for output.
+                6000ns: Output q is matched expectedly: q = 0000
+               16000ns: Output q is matched expectedly: q = 0000
+20000ns Loading serial_in = 1
+               26000ns: Output q is matched expectedly: q = 0001
+30000ns Loaded serial_in = 1
+               36000ns: Output q is matched expectedly: q = 0001
+40000ns Shifting left
+               46000ns: Output q is matched expectedly: q = 0010
+               56000ns: Output q is matched expectedly: q = 0100
+               66000ns: Output q is matched expectedly: q = 1000
+70000ns Stopped shifting left
+70000ns Shifting right
+               76000ns: Output q is matched expectedly: q = 0100
+               86000ns: Output q is matched expectedly: q = 0010
+               96000ns: Output q is matched expectedly: q = 0001
+100000ns Stopped shifting right
+Test PASS
+0029/tb.sv:117: $finish called at 100000 (1ps)

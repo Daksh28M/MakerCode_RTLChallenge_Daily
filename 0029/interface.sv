@@ -10,5 +10,21 @@ module Universal_Shift_Register (
 );
 
 // your implementation here
+reg [3:0] q_reg;
+
+always_ff @(posedge clk) begin
+  if(reset) begin
+    q_reg <= 4'b0;
+  end
+  else begin
+    if(load) q_reg <= {q_reg[6:0],serial_in};
+    else if(enable) begin
+      if(shift_left) q_reg <= {q_reg[2:0],q_reg[3]};
+      else if(shift_right) q_reg <= {q_reg[0],q_reg[3:1]};
+    end
+  end
+end
+
+assign q = q_reg;
 
 endmodule

@@ -1,0 +1,25 @@
+VCD info: dumpfile 0030/test_1.vcd opened for output.
+6000ns Output is matched expectedly: data_out = 00
+16000ns Output is matched expectedly: data_out = 00
+20000ns Pushing data_in = aa
+26000ns Output is matched expectedly: data_out = 00
+30000ns Pushing data_in = bb
+36000ns Output is matched expectedly: data_out = 00
+40000ns Pushing data_in = cc
+46000ns Output is matched expectedly: data_out = 00
+50000ns Pushing data_in = dd
+56000ns Output is matched expectedly: data_out = 00
+60000ns Attempting to push data_in = ee when full
+66000ns Output is matched expectedly: data_out = 00
+70000ns Stopped pushing
+76000ns Output is matched expectedly: data_out = 00
+80000ns Popping data
+86000ns Output is matched expectedly: data_out = dd
+96000ns Output is matched expectedly: data_out = cc
+106000ns Output is matched expectedly: data_out = bb
+116000ns Output is matched expectedly: data_out = aa
+120000ns Attempting to pop when empty
+126000ns Output is matched expectedly: data_out = 00
+130000ns Stopped popping
+Test PASS
+0030/tb.sv:138: $finish called at 130000 (1ps)
