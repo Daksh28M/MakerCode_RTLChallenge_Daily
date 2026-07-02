@@ -1,0 +1,18 @@
+VCD info: dumpfile 0032/test_1.vcd opened for output.
+35000ns Output toggled at input cycle 2, toggle count = 1
+45000ns Output toggled at input cycle 3, toggle count = 2
+55000ns Output toggled at input cycle 4, toggle count = 3
+65000ns Output toggled at input cycle 5, toggle count = 4
+75000ns Output toggled at input cycle 6, toggle count = 5
+85000ns Output toggled at input cycle 7, toggle count = 6
+95000ns Output toggled at input cycle 8, toggle count = 7
+105000ns Output toggled at input cycle 9, toggle count = 8
+115000ns Output toggled at input cycle 10, toggle count = 9
+125000ns Output toggled at input cycle 11, toggle count = 10
+135000ns Output toggled at input cycle 12, toggle count = 11
+145000ns Output toggled at input cycle 13, toggle count = 12
+155000ns Output toggled at input cycle 14, toggle count = 13
+165000ns Output toggled at input cycle 15, toggle count = 14
+175000ns Output toggled at input cycle 16, toggle count = 15
+Test PASS
+0032/tb.sv:110: $finish called at 175000 (1ps)

@@ -1,0 +1,23 @@
+VCD info: dumpfile 0031/test_4.vcd opened for output.
+16000ns Count_out = 0, cycle = 0 (first cycle after reset)
+26000ns Count_out = 1, cycle = 1
+36000ns Count_out = 11, cycle = 2
+46000ns Count_out = 111, cycle = 3
+56000ns Count_out = 1111, cycle = 4
+66000ns Count_out = 11111, cycle = 5
+76000ns Count_out = 111111, cycle = 6
+86000ns Count_out = 1111111, cycle = 7
+96000ns Count_out = 11111111, cycle = 8
+106000ns Count_out = 11111110, cycle = 9
+116000ns Count_out = 11111100, cycle = 10
+126000ns Count_out = 11111000, cycle = 11
+136000ns Count_out = 11110000, cycle = 12
+146000ns Count_out = 11100000, cycle = 13
+156000ns Count_out = 11000000, cycle = 14
+166000ns Count_out = 10000000, cycle = 15
+176000ns Count_out = 0, cycle = 16
+186000ns Count_out = 1, cycle = 17
+196000ns Count_out = 11, cycle = 18
+206000ns Count_out = 111, cycle = 19
+Test PASS
+0031/tb.sv:93: $finish called at 215000 (1ps)

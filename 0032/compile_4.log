@@ -1,0 +1,2 @@
+0032/tb.sv:91: warning: Static variable initialization requires explicit lifetime in this context.
+0032/tb.sv:92: warning: Static variable initialization requires explicit lifetime in this context.
